@@ -1,4 +1,4 @@
-class Roll < Formula
+class Termiroll < Formula
   desc "diff tool with browser-based GUI"
   homepage "https://github.com/pomalone91/termiroll"
   url "https://github.com/pomalone91/termiroll/releases/download/0.1.0/roll-0.1.0.tar.gz"
