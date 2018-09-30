@@ -1,8 +1,8 @@
 class Termiroll < Formula
   desc "CLI based dice roller"
   homepage "https://github.com/pomalone91/termiroll"
-  url "https://github.com/pomalone91/termiroll/releases/download/1.0/roll-1.0.tar.gz"
-  sha256 "e918089a48297138eb01fecc87cfb6cdb968087378eb10778b865ed98f61daa7"
+  url "https://github.com/pomalone91/termiroll/releases/download/1.1/roll-1.1.tar.gz"
+  sha256 "9d9041d9def22e7d0aed9bc383695008fd97622bcd80af1bebd3f7aaec4d080a"
 
   bottle :unneeded
 
