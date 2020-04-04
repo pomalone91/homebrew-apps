@@ -1,4 +1,4 @@
-class crol < Formula
+class Crol < Formula
   desc "CLI based dice roller written in C"
   homepage "https://github.com/pomalone91/c_roll"
   url "https://github.com/pomalone91/c_roll/releases/download/v1.0/roll-1.0.tar.gz"
