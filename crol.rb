@@ -14,6 +14,3 @@ class Crol < Formula
     system "#{bin}/roll"
   end
 end
-
-7f4542d3e1dc14b26d85a6b3438358023a8bb5fcd4bf7cca4d261578045bfbab
-722cb5769d4f6a79b82b79d28a7bc0fc472a54cd29d2f77f2c015e802cf8b66f
