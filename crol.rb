@@ -1,8 +1,8 @@
 class Crol < Formula
   desc "CLI based dice roller written in C"
   homepage "https://github.com/pomalone91/c_roll"
-  url "https://github.com/pomalone91/c_roll/releases/download/v1.0/roll-1.0.tar.gz"
-  sha256 "722cb5769d4f6a79b82b79d28a7bc0fc472a54cd29d2f77f2c015e802cf8b66f"
+  url "https://github.com/pomalone91/c_roll/releases/download/v1.0/roll-1.1.tar.gz"
+  sha256 "c6b13848db7efbbf2132249ad5777f8597528e14fbd11c7c79364afbe21e922d"
 
   bottle :unneeded
 
